@@ -1,5 +1,5 @@
 # Full-Processor
- - Duke ECE 550 Project
+ - Duke University ECE 550 Project
  - A single-cycle 32-bit processor
 ## 1. Contents
  - Checkpoint 1: Simple ALU
