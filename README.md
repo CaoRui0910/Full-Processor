@@ -5,6 +5,7 @@
  - Checkpoint 1: Simple ALU
    - ADD
    - SUBTRACT
+   - a non-RCA adder with support for addition & subtraction
  - Checkpoint 2: Full ALU
    - AND
    - OR
