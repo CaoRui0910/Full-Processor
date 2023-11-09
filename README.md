@@ -1,7 +1,10 @@
 # Full-Processor
  - Duke University ECE 550 Project
  - A single-cycle 32-bit processor
-## 1. Contents
+## 1. Requirements
+ - Computer with Quartus Prime software
+ - For Mac users to use Quartus: 1) use a windows VM; 2) Install the Windows operating system to make the computer dual-boot.
+## 2. Contents
  - Checkpoint 1: Simple ALU | [README](https://github.com/CaoRui0910/Full-Processor/blob/main/Checkpoint1%20(Step1)/README.md)
    - ADD
    - SUBTRACT
@@ -25,7 +28,7 @@ components
    - Properly generates the dmem and imem files by generating Quartus syncram
 components
    - implement J-type instructions
-## 2. Module Interface
+## 3. Module Interface
  - ALU:
  <img width="619" alt="Screen Shot 2023-01-26 at 00 14 24" src="https://user-images.githubusercontent.com/93239143/214763421-5dd16539-5a23-412f-a01d-3efb30ce5ab3.png">
 
